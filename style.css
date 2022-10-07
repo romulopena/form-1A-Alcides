@@ -1,5 +1,5 @@
 body{
-  background: linear-gradient(rgb(146, 36, 36),rgb(121, 53, 53));
+  background: linear-gradient(white,gray);
 }
 form label{
   display: block;
