@@ -10,7 +10,8 @@ thead{
   background-color:dodgerblue ;
 }
 
-th , td{
+th{
   border: 1px solid;
   border-color: aquamarine;
 }
+
