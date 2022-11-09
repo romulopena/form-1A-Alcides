@@ -6,12 +6,13 @@ form label{
   font-size: 20px;
 }
 
-thead{
-  background-color: blue ;
+table{
+    background-color: darkturquoise;
 }
 
-th{
-  border: 1px solid;
-  border-color: red;
-}
+th, td {
+  border: 2px solid;
+  border-color: brown;
+  font-size: 24px;
 
+}
