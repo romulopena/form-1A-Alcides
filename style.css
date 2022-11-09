@@ -7,5 +7,10 @@ form label{
 }
 
 thead{
-  border: 1px;
+  background-color:dodgerblue ;
+}
+
+th, td{
+  border: 1px solid;
+  border-color: aquamarine;
 }
