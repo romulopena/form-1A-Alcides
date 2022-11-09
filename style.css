@@ -7,11 +7,11 @@ form label{
 }
 
 thead{
-  background-color:dodgerblue ;
+  background-color: blue ;
 }
 
 th{
   border: 1px solid;
-  border-color: aquamarine;
+  border-color: red;
 }
 
