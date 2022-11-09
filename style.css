@@ -5,3 +5,7 @@ form label{
   display: block;
   font-size: 20px;
 }
+
+thead{
+  border: 1px;
+}
