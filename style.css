@@ -1,5 +1,5 @@
 body{
-  background: radial-gradient(white,gray);
+  background: radial-gradient(green),gray);
 }
 form label{
   display: block;
@@ -12,7 +12,7 @@ table{
 
 th, td {
   border: 2px solid;
-  border-color: brown;
+  border-color: orange;
   font-size: 24px;
 
 }
